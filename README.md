@@ -94,8 +94,8 @@ After running all steps, the `outputs/` folder contains:
 - matplotlib
 - numpy
 - GPU recommended (runs on CPU but slow)
-
----
+  
+--
 
 ## References
 
