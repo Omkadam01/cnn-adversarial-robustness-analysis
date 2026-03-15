@@ -95,7 +95,7 @@ After running all steps, the `outputs/` folder contains:
 - numpy
 - GPU recommended (runs on CPU but slow)
   
---
+---
 
 ## References
 
