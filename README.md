@@ -1,6 +1,6 @@
 # Adversarial Attack & Robustness in CNNs
 
-> Studying how tiny, invisible perturbations can fool neural networks — and how to defend against them.
+> Studying how tiny, invisible perturbations can fool neural networks and how to defend against them.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)
